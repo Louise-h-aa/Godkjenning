@@ -1,5 +1,5 @@
 class Louise {
     public static void main(String[] args) {
-        System.out.println("dette går jo bra Louise Heide AAkerman, hululu"); 
+        System.out.println("dette går jo bra, eller  Louise Heide AAkerman, hululu"); 
     }
 }
