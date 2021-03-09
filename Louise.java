@@ -1,5 +1,7 @@
 class Louise {
-    public static void main(String[] args) {
-        System.out.println("Louise Heide AAkerman, hululu"); 
+
+    private static final void main(String[] args) {
+        System.out.println("Louise Heide AAkerman, hmmmm, mvhaha"); 
+       
     }
 }
