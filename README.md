@@ -1,1 +1,1 @@
-# Godkjenning for IS-105
+# destroy for IS-105
